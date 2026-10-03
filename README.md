@@ -116,4 +116,3 @@ PTB-XL 来自 [PhysioNet v1.0.3](https://physionet.org/content/ptb-xl/1.0.3/)，
 引用：Wagner et al. (2022), *PTB-XL, a large publicly available electrocardiography dataset*, v1.0.3, [doi:10.13026/kfzx-aw45](https://doi.org/10.13026/kfzx-aw45)；原始论文 Wagner et al. (2020), *Scientific Data*, [doi:10.1038/s41597-020-0495-6](https://doi.org/10.1038/s41597-020-0495-6)。PhysioNet 平台引用见官方数据页。
 
 ST 的网络代码、运行库与第三方外设/CMSIS 文件保留各自版权与许可；Cube.AI 许可见 [LICENSE.txt](outputs/distillation/stm32_student_project/User/ai/LICENSE.txt)。参考项目 [AndrewLucenko/ptb-xl-ecg-classification](https://github.com/AndrewLucenko/ptb-xl-ecg-classification) 的划分和工程组织思路，未使用其模型权重或成绩。本项目的课程分类结果不构成临床适用性证明。
-
